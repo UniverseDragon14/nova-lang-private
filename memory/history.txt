@@ -1,0 +1,48 @@
+2026-06-11 00:46:12 | noted: Pi5 NOVA changed from field terminal to Python nova.py language core.
+2026-06-11 00:47:25 | noted: Pi5 NOVA changed from field terminal to Python nova.py language core.
+2026-06-11 00:48:36 | noted: Pi5 NOVA Python Core v0.1 confirmed. nova command now runs python nova.py language core.
+2026-06-11 00:50:07 | backup created /home/aslam/nova-lang/backups/backup_20260611_005007.tar.gz
+2026-06-11 00:50:32 | noted: NOVA Python Core v0.1.1 backup function fixed. Backup excludes backups folder correctly.
+2026-06-11 00:50:32 | backup created /home/aslam/nova-lang/backups/backup_20260611_005032.tar.gz
+2026-06-11 00:52:54 | run file /home/aslam/nova-lang/test.nova
+2026-06-11 00:52:54 | noted: NOVA v0.2 file runner tested
+2026-06-11 00:53:06 | noted: NOVA Python Core v0.2 installed. Dot-nova file runner working.
+2026-06-11 00:53:08 | backup created /home/aslam/nova-lang/backups/backup_20260611_005308.tar.gz
+2026-06-11 00:55:19 | new nova file created /home/aslam/nova-lang/main.nova
+2026-06-11 00:55:20 | run file /home/aslam/nova-lang/main.nova
+2026-06-11 00:55:20 | noted: NOVA file created and tested
+2026-06-11 00:55:29 | noted: NOVA Python Core v0.2.1 installed. nova new and nova run working.
+2026-06-11 00:55:29 | backup created /home/aslam/nova-lang/backups/backup_20260611_005529.tar.gz
+2026-06-11 00:57:19 | run file /home/aslam/nova-lang/vars_test.nova
+2026-06-11 00:57:19 | noted: NOVA v0.3 variables tested by Aslam
+2026-06-11 00:57:31 | noted: NOVA Python Core v0.3 installed. Variables, set command, vars command and variable rendering working.
+2026-06-11 00:57:31 | backup created /home/aslam/nova-lang/backups/backup_20260611_005731.tar.gz
+2026-06-11 00:59:08 | run file /home/aslam/nova-lang/if_test.nova
+2026-06-11 00:59:08 | noted: NOVA v0.4 condition logic tested by Aslam
+2026-06-11 01:02:02 | noted: NOVA Python Core v0.4 installed. If condition logic with == and != working.
+2026-06-11 01:02:02 | backup created /home/aslam/nova-lang/backups/backup_20260611_010202.tar.gz
+2026-06-11 01:02:37 | run file /home/aslam/nova-lang/math_test.nova
+2026-06-11 01:02:37 | noted: NOVA v0.5 math calculation tested by Aslam
+2026-06-11 01:02:50 | noted: NOVA Python Core v0.5 installed. calc command and math variables working.
+2026-06-11 01:02:51 | backup created /home/aslam/nova-lang/backups/backup_20260611_010251.tar.gz
+2026-06-11 01:02:53 | noted: NOVA Python Core v0.5 installed. calc command and math variables working.
+2026-06-11 01:02:53 | backup created /home/aslam/nova-lang/backups/backup_20260611_010253.tar.gz
+2026-06-11 01:05:25 | run file /home/aslam/nova-lang/repeat_test.nova
+2026-06-11 01:05:25 | noted: NOVA v0.6 repeat loop tested by Aslam
+2026-06-11 01:05:36 | noted: NOVA Python Core v0.6 installed. Repeat loop with loop index i working.
+2026-06-11 01:05:36 | backup created /home/aslam/nova-lang/backups/backup_20260611_010536.tar.gz
+2026-06-11 01:07:57 | run file /home/aslam/nova-lang/block_test.nova
+2026-06-11 01:07:57 | noted: NOVA v0.7 block syntax tested by Aslam
+2026-06-11 01:08:08 | noted: NOVA Python Core v0.7 installed. repeat/end and if/end block syntax working.
+2026-06-11 01:08:08 | backup created /home/aslam/nova-lang/backups/backup_20260611_010808.tar.gz
+2026-06-11 01:11:44 | run file /home/aslam/nova-lang/function_test.nova
+2026-06-11 01:11:44 | noted: NOVA v0.8 functions tested by Aslam
+2026-06-11 01:12:17 | noted: NOVA Python Core v0.8 installed. define/call functions working with variables, loops and conditions.
+2026-06-11 01:12:18 | backup created /home/aslam/nova-lang/backups/backup_20260611_011217.tar.gz
+2026-06-11 01:16:15 | run file /home/aslam/nova-lang/args_test.nova
+2026-06-11 01:16:15 | noted: NOVA v0.9 function arguments tested by Aslam
+2026-06-11 01:16:31 | noted: NOVA Python Core v0.9 installed. Function arguments arg1 arg2 argc working.
+2026-06-11 01:16:31 | backup created /home/aslam/nova-lang/backups/backup_20260611_011631.tar.gz
+2026-06-20 00:08:39 | run file /home/aslam/nova-lang/args_test.nova
+2026-06-20 00:08:39 | noted: NOVA v0.9 function arguments tested by Aslam
+2026-06-20 22:20:43 | run file examples/v2/whatsapp_adapter_contract_v2.nova

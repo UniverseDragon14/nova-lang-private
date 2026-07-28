@@ -1,0 +1,6 @@
+# NOVA v0.2 language test
+say "Universal Dragon online"
+identity
+status
+note "NOVA v0.2 file runner tested"
+history

@@ -1,0 +1,24 @@
+Pi5 NOVA changed from field terminal to Python nova.py language core.
+Pi5 NOVA changed from field terminal to Python nova.py language core.
+Pi5 NOVA Python Core v0.1 confirmed. nova command now runs python nova.py language core.
+NOVA Python Core v0.1.1 backup function fixed. Backup excludes backups folder correctly.
+NOVA v0.2 file runner tested
+NOVA Python Core v0.2 installed. Dot-nova file runner working.
+NOVA file created and tested
+NOVA Python Core v0.2.1 installed. nova new and nova run working.
+NOVA v0.3 variables tested by Aslam
+NOVA Python Core v0.3 installed. Variables, set command, vars command and variable rendering working.
+NOVA v0.4 condition logic tested by Aslam
+NOVA Python Core v0.4 installed. If condition logic with == and != working.
+NOVA v0.5 math calculation tested by Aslam
+NOVA Python Core v0.5 installed. calc command and math variables working.
+NOVA Python Core v0.5 installed. calc command and math variables working.
+NOVA v0.6 repeat loop tested by Aslam
+NOVA Python Core v0.6 installed. Repeat loop with loop index i working.
+NOVA v0.7 block syntax tested by Aslam
+NOVA Python Core v0.7 installed. repeat/end and if/end block syntax working.
+NOVA v0.8 functions tested by Aslam
+NOVA Python Core v0.8 installed. define/call functions working with variables, loops and conditions.
+NOVA v0.9 function arguments tested by Aslam
+NOVA Python Core v0.9 installed. Function arguments arg1 arg2 argc working.
+NOVA v0.9 function arguments tested by Aslam

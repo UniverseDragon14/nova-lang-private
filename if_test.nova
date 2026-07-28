@@ -1,0 +1,13 @@
+# NOVA v0.4 condition test
+
+set creator = "Aslam"
+set project = "Universal Dragon"
+set core = "NOVA"
+
+if creator == "Aslam" then say "Creator confirmed: $creator"
+if project == "Universal Dragon" then say "Project confirmed: $project"
+if core != "EVE" then say "Core is not EVE. Core is $core"
+
+vars
+note "NOVA v0.4 condition logic tested by $creator"
+history

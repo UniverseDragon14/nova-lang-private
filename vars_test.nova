@@ -1,0 +1,11 @@
+# NOVA v0.3 variable test
+set creator = "Aslam"
+set project = "Universal Dragon"
+set core = "NOVA"
+
+say "Creator: $creator"
+say "Project: $project"
+say "Core: $core"
+vars
+note "NOVA v0.3 variables tested by $creator"
+history

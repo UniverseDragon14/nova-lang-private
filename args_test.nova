@@ -1,0 +1,24 @@
+# NOVA v0.9 function argument test
+
+set creator = "Aslam"
+
+define greet
+  say "Hello $arg1 from $creator"
+  say "Argument count: $argc"
+end
+
+define add
+  calc total = $arg1 + $arg2
+  say "$arg1 + $arg2 = $total"
+end
+
+call greet "Universal Dragon"
+call add 7 8
+
+if total == "15"
+  say "Function args math confirmed. Total is $total"
+  note "NOVA v0.9 function arguments tested by $creator"
+end
+
+vars
+history

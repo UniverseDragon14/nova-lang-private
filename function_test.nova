@@ -1,0 +1,29 @@
+# NOVA v0.8 function test
+
+set creator = "Aslam"
+set total = 0
+
+define greet
+  say "Dragon hello from $creator"
+end
+
+define add_one
+  calc total = $total + 1
+  say "Total now: $total"
+end
+
+functions
+
+call greet
+
+repeat 3
+  call add_one
+end
+
+if total == "3"
+  say "Function + loop confirmed. Total is $total"
+  note "NOVA v0.8 functions tested by $creator"
+end
+
+vars
+history

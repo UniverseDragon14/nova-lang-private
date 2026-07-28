@@ -1,0 +1,17 @@
+# NOVA v0.7 block test
+
+set creator = "Aslam"
+set total = 0
+
+repeat 3
+  say "Block loop $i by $creator"
+  calc total = $total + 1
+end
+
+if total == "3"
+  say "Block IF confirmed. Total is $total"
+  note "NOVA v0.7 block syntax tested by $creator"
+end
+
+vars
+history

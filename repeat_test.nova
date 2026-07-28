@@ -1,0 +1,16 @@
+# NOVA v0.6 repeat test
+
+set creator = "Aslam"
+set total = 0
+
+repeat 3 then say "Loop $i by $creator"
+repeat 5 then calc total = $total + 1
+
+say "Final total: $total"
+
+if total == "5" then say "Repeat math confirmed"
+if total != "0" then say "Loop changed the value"
+
+vars
+note "NOVA v0.6 repeat loop tested by $creator"
+history

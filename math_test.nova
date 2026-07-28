@@ -1,0 +1,22 @@
+# NOVA v0.5 math test
+
+set creator = "Aslam"
+set a = 10
+set b = 5
+
+calc total = $a + $b
+calc double = $total * 2
+calc half = $double / 2
+
+say "Creator: $creator"
+say "Total: $total"
+say "Double: $double"
+say "Half: $half"
+
+if total == "15" then say "Math confirmed: total is $total"
+if double != "20" then say "This should skip"
+if double == "30" then say "Double confirmed: $double"
+
+vars
+note "NOVA v0.5 math calculation tested by $creator"
+history
